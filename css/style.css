@@ -426,7 +426,8 @@ ul.deepdrop_1{
 }
 
 /* para section end */
-/* type1 start */
+
+/* project section start */
 .project{
 	background:white;
 	padding:80px 0;
@@ -583,12 +584,6 @@ ul.deepdrop_1{
     flex-wrap: wrap;
 	cursor: pointer;
 	border-color: #e03a3c;
-}
-.project_icon1{
-	/* background: black; */
-    height: 50px;
-    width: 50px;
-    margin-top: 12px;
 }
 .project_icon1{
 	height:50px;
@@ -1869,8 +1864,6 @@ ul.deepdrop_1{
 .team i:hover{
 	background: #111111;
 }
-
-
 
 /* team section end */
 
