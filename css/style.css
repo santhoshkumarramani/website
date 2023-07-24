@@ -576,7 +576,6 @@ ul.deepdrop_1{
     background: #e03a3c;
 }
 .con2{
-	height:50px;
 	width:auto;
 	margin-top: 25px;
 }
@@ -589,7 +588,6 @@ ul.deepdrop_1{
 	text-align:center;
 }
 .con3{
-	height:150px;
 	width:auto;
 	margin-top: 20px;
 	background-color:#242424;
@@ -672,7 +670,6 @@ ul.deepdrop_1{
 }
 
 .portfolio_para3{
-	height:265px;
 	width:auto;
 	overflow: hidden;
 	position:relative;
@@ -692,6 +689,7 @@ ul.deepdrop_1{
 	opacity:1;
 }
 .port1{
+	height:100%;
 	position:absolute;
 	bottom:0;
 	left:0;
