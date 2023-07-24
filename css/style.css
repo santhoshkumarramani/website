@@ -406,7 +406,7 @@ ul.deepdrop_1{
 	color: red;
     font-size: 25px;
     position: absolute;
-    left: 104px;
+    left: 116px;
     bottom: 106px;
     border: 2px solid #fff;
     width: 54px;
@@ -1093,7 +1093,7 @@ ul.deepdrop_1{
 .team_icon{
 	position:absolute;
 	bottom: 105px;
-    left: 48px;
+    left: 61px;
 	transition:all 0.3s ease;
 	visibility:hidden;
 	opacity:0;

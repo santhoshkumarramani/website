@@ -8,6 +8,11 @@
 		flex-wrap:wrap;
 		padding: 0 15px;
 	}
+	.banner{
+		background-size:cover;
+		background-position:center;
+	}
+	
 	.banner_content{
 		text-align:center;
 	}
