@@ -79,6 +79,15 @@
 	.team_para3{
 		margin-top:50px;
 	}
+	.team_icon {
+		position: absolute;
+		bottom: 105px;
+		left: 21%;
+		transition: all 0.3s ease;
+		visibility: hidden;
+		opacity: 0;
+		transform: translatey(-20px);
+	}	
 	.contact_para3{
 		margin-top: 7rem;
 		margin-bottom: 13rem;
