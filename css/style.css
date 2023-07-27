@@ -1092,21 +1092,25 @@ ul.deepdrop_1{
     margin-left: 17px;
 }
 .team_icon{
-	position:absolute;
-	bottom: 105px;
-    left: 61px;
-	transition:all 0.3s ease;
-	visibility:hidden;
-	opacity:0;
-	transform:translatey(-20px);
+	position: absolute;
+    transition: all 0.3s ease;
+    visibility: hidden;
+    opacity: 0;
+    left: 0;
+    bottom: 25%;
+    width: 100%;
+    transform: translatey(-20px);
+	display: flex;
+    justify-content: center;
 }
  .team_para3:hover .team_icon{
 	visibility: visible;
     opacity: 1;
-    transform: translateY(0);
+    transform: translateY(-10px);
 }
 .team_icon a{
 	text-decoration:none;
+	padding: 2px;
 }
 .team i{
 	font-size: 20px;

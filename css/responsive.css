@@ -79,15 +79,19 @@
 	.team_para3{
 		margin-top:50px;
 	}
-	.team_icon {
-		position: absolute;
-		bottom: 105px;
-		left: 21%;
-		transition: all 0.3s ease;
-		visibility: hidden;
-		opacity: 0;
-		transform: translatey(-20px);
-	}	
+	.team_icon{
+	position: absolute;
+    transition: all 0.3s ease;
+    visibility: hidden;
+    opacity: 0;
+    left: 0;
+    bottom: 30%;
+    width: 100%;
+    transform: translatey(-20px);
+	display: flex;
+    justify-content: center;
+	}
+
 	.contact_para3{
 		margin-top: 7rem;
 		margin-bottom: 13rem;
